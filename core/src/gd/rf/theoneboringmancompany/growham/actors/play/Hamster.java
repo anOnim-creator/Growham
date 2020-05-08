@@ -54,6 +54,10 @@ public class Hamster extends Actor implements Serializable {
     private float Y;
     private String pose;
 
+    /*
+    Arrays or map could be used here, but it's more convenient for me.
+     */
+
     private transient TextureAtlas smallSit;
     private transient TextureAtlas smallLeft;
     private transient TextureAtlas smallRight;
