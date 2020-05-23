@@ -136,7 +136,7 @@ public abstract class Settings {
         public final static String DOUBLE_TAP = "Нажмите для начала";
         public final static String ENTER_NAME = "Введите имя";
 
-        public final static String HUNGRY = "Голод";
+        public final static String HUNGRY = "Сытость";
         public final static String HEALTH = "Здоровье";
         public final static String DAY = "День";
         public final static String MONEY = "Деньги";
