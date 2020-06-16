@@ -67,7 +67,8 @@ public class PlayScreen extends MyScreen {
     @Override
     public void hide() {
         super.hide();
-        music.pause();
+        //Music starts anew every time
+        music.stop();
     }
 
     @Override
